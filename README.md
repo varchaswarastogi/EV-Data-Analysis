@@ -1,3 +1,7 @@
+**Note: Full dataset not uploaded due to GitHub size limits.
+For dataset: https://drive.google.com/file/d/1StNzlJIXBPufTO8i8votEyRsk6vNtMum/view?usp=sharing
+
+
 ⚡ EV Data Analysis Dashboard (Tableau)
 📌 Project Overview
 
